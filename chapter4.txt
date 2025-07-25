@@ -1,0 +1,1 @@
+Now im trying to hide  my secret to be revealed using gitignore.

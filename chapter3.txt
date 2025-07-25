@@ -1,1 +1,0 @@
-I'll be doing it through local device using bash that connects me to github.
