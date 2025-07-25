@@ -1,1 +1,1 @@
-Hello this is 2nd line.
+I am trying to push my files from this story directory to github.
